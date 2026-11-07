@@ -1,11 +1,9 @@
 # GRANTLY
+### Rethinking the Scholarship Experience
 
 **Your Future Deserves Funding.**
 
 GRANTLY is a frontend demonstration of a unified scholarship discovery and management platform. It is designed to help students explore opportunities, compare listing criteria with a student profile, shortlist scholarships, organize preparation, and track demo application records.
-
-# GRANTLY
-### Rethinking the Scholarship Experience
 
 ## Problem Statement
 
